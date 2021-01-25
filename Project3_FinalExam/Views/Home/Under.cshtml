@@ -1,0 +1,69 @@
+﻿@model Project3_FinalExam.ViewModels.UndergradViewModel
+
+         <div class="flex-container programTitle" style="width: 100vw; height: 50vh;"
+              data-vide-bg="../assets/closeupType.mp4"
+              data-vide-options="loop: false, muted: false, position: 0% 0%">
+             <div><h3 class="display-4" style="position:absolute;top:40%;left:40%;">Our Programs</h3></div>
+         </div>
+
+
+<h3>Undergraduate Majors</h3>
+<div id="undergradAcc">
+    @foreach (var under in Model.UnderGrads)
+      {
+        <h3>@under.title</h3>
+         <div>
+            <p>@under.description</p><br /><br />
+            Concentractions:
+            @foreach (var conc in under.concentrations)
+             {
+               <p>@conc</p>
+             }
+        </div>
+      }
+</div>
+<h3>Graduate Majors</h3>
+ <div id="gradAcc">
+     @for (int i = 0; i < Model.Graduate.Count - 1; i++)
+      {
+         <h3>@Model.Graduate[i].title</h3>
+            <div>
+                <p> @Model.Graduate[i].description</p><br />
+                Concentractions: 
+                @if (@Model.Graduate[i].concentrations != null)
+                    {
+                        @foreach (var conc in @Model.Graduate[i].concentrations)
+                        {
+                            <p>@conc</p>
+                         }
+                 }
+
+             </div>
+      }
+ <h3>@Model.Graduate[3].degreeName</h3>
+     <div>
+         <p> Avaliable Certificates:</p>
+         @foreach (var cert in @Model.Graduate[3].availableCertificates)
+         {
+            <p>@cert</p>
+         }
+     </div>
+
+ </div>
+ <h3>Our Minors</h3>
+ <div id="minorAcc">
+     @foreach (var minor in Model.UgMinor)
+      {
+       <h3>@minor.title</h3>
+       <div>
+            <p>@minor.description</p><br />
+            <p>Courses: <br />
+            @foreach (var course in minor.courses)
+             {
+                @course <br />
+              }
+            </p>
+       </div>
+      }
+</div>
+        <script src="~/jquery/jquery.js"></script>

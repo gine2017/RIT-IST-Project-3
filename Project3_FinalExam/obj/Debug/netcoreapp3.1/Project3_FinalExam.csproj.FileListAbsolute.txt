@@ -1,0 +1,920 @@
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.exe
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.deps.json
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.runtimeconfig.json
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.runtimeconfig.dev.json
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.pdb
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.Views.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.Views.pdb
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.AssemblyInfoInputs.cache
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.AssemblyInfo.cs
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.csproj.CoreCompileInputs.cache
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorAssemblyInfo.cache
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorAssemblyInfo.cs
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/staticwebassets/Project3_FinalExam.StaticWebAssets.Manifest.cache
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/staticwebassets/Project3_FinalExam.StaticWebAssets.xml
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/scopedcss/bundle/Project3_FinalExam.styles.css
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.TagHelpers.input.cache
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.TagHelpers.output.cache
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorCoreGenerate.cache
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/GetFaculty.cshtml.g.cs
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorTargetAssemblyInfo.cache
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorTargetAssemblyInfo.cs
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.Views.pdb
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.csproj.CopyComplete
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.dll
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.pdb
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.genruntimeconfig.cache
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/libman.json
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.csprojAssemblyReference.cache
+C:/Users/Paul Goldman/OneDrive/Documents/Fall_2020/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Under.cshtml.g.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/libman.json
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.deps.json
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.runtimeconfig.json
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.runtimeconfig.dev.json
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.pdb
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cors.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Identity.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Session.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.CSharp.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Http.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Primitives.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.JSInterop.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Net.Http.Headers.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.Core.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Primitives.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Registry.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/mscorlib.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/netstandard.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.AppContext.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Buffers.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Collections.Concurrent.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Collections.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Collections.Immutable.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Collections.NonGeneric.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Collections.Specialized.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Annotations.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.DataAnnotations.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Primitives.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.TypeConverter.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Configuration.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Console.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Core.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Data.Common.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Data.DataSetExtensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Data.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Contracts.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Debug.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.EventLog.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Process.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.StackTrace.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tools.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TraceSource.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tracing.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Drawing.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Drawing.Primitives.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Dynamic.Runtime.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Globalization.Calendars.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Globalization.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Globalization.Extensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.Brotli.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.FileSystem.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.ZipFile.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Primitives.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Watcher.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.IsolatedStorage.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.MemoryMappedFiles.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Pipelines.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Pipes.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Linq.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Linq.Expressions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Linq.Parallel.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Linq.Queryable.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Memory.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Http.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.HttpListener.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Mail.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.NameResolution.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.NetworkInformation.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Ping.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Primitives.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Requests.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Security.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.ServicePoint.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Sockets.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.WebClient.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.WebHeaderCollection.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.WebProxy.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.Client.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Numerics.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Numerics.Vectors.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ObjectModel.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.DispatchProxy.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.Lightweight.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Extensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Metadata.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Primitives.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.TypeExtensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Resources.Reader.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Resources.ResourceManager.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Resources.Writer.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Extensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Handles.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Intrinsics.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Loader.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Numerics.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Formatters.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Json.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Primitives.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Xml.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.AccessControl.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Claims.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Algorithms.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Cng.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Csp.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Encoding.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Primitives.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Xml.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Permissions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.Windows.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.SecureString.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ServiceModel.Web.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ServiceProcess.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.CodePages.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.Extensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Text.Encodings.Web.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Text.RegularExpressions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Channels.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Overlapped.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Dataflow.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Extensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Parallel.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Thread.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.ThreadPool.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Timer.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Transactions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Transactions.Local.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ValueTuple.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Web.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Web.HttpUtility.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Windows.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Windows.Extensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.Linq.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.ReaderWriter.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.Serialization.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.XDocument.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlDocument.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlSerializer.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.XDocument.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/WindowsBase.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.Views.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.Views.pdb
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.BrowserLink.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.AssemblyInfoInputs.cache
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.AssemblyInfo.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.csproj.CoreCompileInputs.cache
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.MvcApplicationPartsAssemblyInfo.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.MvcApplicationPartsAssemblyInfo.cache
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorAssemblyInfo.cache
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorAssemblyInfo.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/staticwebassets/Project3_FinalExam.StaticWebAssets.Manifest.cache
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/staticwebassets/Project3_FinalExam.StaticWebAssets.xml
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/scopedcss/bundle/Project3_FinalExam.styles.css
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.TagHelpers.input.cache
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.TagHelpers.output.cache
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorCoreGenerate.cache
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/GetFaculty.cshtml.g.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Under.cshtml.g.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorTargetAssemblyInfo.cache
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorTargetAssemblyInfo.cs
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.Views.pdb
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.csproj.CopyComplete
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.dll
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.pdb
+/Users/reginethimothee/Desktop/ISTE 340/Lecture25_EverythingYouNeedToKnowForProject3/Project3BaseCode/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.genruntimeconfig.cache
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/libman.json
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.deps.json
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.runtimeconfig.json
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.runtimeconfig.dev.json
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.pdb
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cors.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Identity.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Session.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.CSharp.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Http.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Primitives.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.JSInterop.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Net.Http.Headers.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.Core.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Primitives.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Registry.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/mscorlib.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/netstandard.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.AppContext.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Buffers.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Collections.Concurrent.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Collections.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Collections.Immutable.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Collections.NonGeneric.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Collections.Specialized.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Annotations.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.DataAnnotations.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Primitives.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.TypeConverter.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Configuration.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Console.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Core.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Data.Common.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Data.DataSetExtensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Data.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Contracts.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Debug.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.EventLog.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Process.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.StackTrace.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tools.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TraceSource.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tracing.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Drawing.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Drawing.Primitives.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Dynamic.Runtime.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Globalization.Calendars.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Globalization.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Globalization.Extensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.Brotli.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.FileSystem.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.ZipFile.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Primitives.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Watcher.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.IsolatedStorage.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.MemoryMappedFiles.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Pipelines.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.Pipes.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Linq.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Linq.Expressions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Linq.Parallel.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Linq.Queryable.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Memory.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Http.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.HttpListener.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Mail.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.NameResolution.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.NetworkInformation.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Ping.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Primitives.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Requests.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Security.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.ServicePoint.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.Sockets.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.WebClient.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.WebHeaderCollection.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.WebProxy.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.Client.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Numerics.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Numerics.Vectors.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ObjectModel.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.DispatchProxy.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.Lightweight.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Extensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Metadata.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.Primitives.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Reflection.TypeExtensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Resources.Reader.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Resources.ResourceManager.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Resources.Writer.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Extensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Handles.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Intrinsics.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Loader.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Numerics.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Formatters.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Json.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Primitives.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Xml.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.AccessControl.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Claims.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Algorithms.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Cng.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Csp.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Encoding.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Primitives.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Xml.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Permissions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.Windows.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Security.SecureString.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ServiceModel.Web.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ServiceProcess.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.CodePages.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.Extensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Text.Encodings.Web.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Text.RegularExpressions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Channels.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Overlapped.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Dataflow.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Extensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Parallel.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Thread.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.ThreadPool.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Threading.Timer.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Transactions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Transactions.Local.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.ValueTuple.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Web.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Web.HttpUtility.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Windows.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Windows.Extensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.Linq.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.ReaderWriter.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.Serialization.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.XDocument.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlDocument.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlSerializer.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.XDocument.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/refs/WindowsBase.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.Views.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Project3_FinalExam.Views.pdb
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.BrowserLink.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.csprojAssemblyReference.cache
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.AssemblyInfoInputs.cache
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.AssemblyInfo.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.csproj.CoreCompileInputs.cache
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.MvcApplicationPartsAssemblyInfo.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.MvcApplicationPartsAssemblyInfo.cache
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorAssemblyInfo.cache
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorAssemblyInfo.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/staticwebassets/Project3_FinalExam.StaticWebAssets.Manifest.cache
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/staticwebassets/Project3_FinalExam.StaticWebAssets.xml
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/scopedcss/bundle/Project3_FinalExam.styles.css
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.TagHelpers.input.cache
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.TagHelpers.output.cache
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorCoreGenerate.cache
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/GetFaculty.cshtml.g.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Under.cshtml.g.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorTargetAssemblyInfo.cache
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorTargetAssemblyInfo.cs
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.Views.pdb
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.csproj.CopyComplete
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.dll
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.pdb
+/Users/reginethimothee/Desktop/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.genruntimeconfig.cache
+/Volumes/LaCie/fourth year/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.csprojAssemblyReference.cache
+/Volumes/LaCie/fourth year/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.AssemblyInfoInputs.cache
+/Volumes/LaCie/fourth year/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.AssemblyInfo.cs
+/Volumes/LaCie/fourth year/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.csproj.CoreCompileInputs.cache
+/Volumes/LaCie/fourth year/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/LaCie/fourth year/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/LaCie/fourth year/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorAssemblyInfo.cache
+/Volumes/LaCie/fourth year/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.RazorAssemblyInfo.cs
+/Volumes/LaCie/fourth year/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.dll
+/Volumes/LaCie/fourth year/Project3_FinalExam/obj/Debug/netcoreapp3.1/Project3_FinalExam.pdb

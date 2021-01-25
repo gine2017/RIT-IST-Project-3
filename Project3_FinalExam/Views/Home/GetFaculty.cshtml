@@ -1,0 +1,43 @@
+﻿@model Project3_FinalExam.ViewModels.HomeViewModel
+<!--
+REMOVED UNECCESSARY ADDTION DISPLAY:INLINE BOCK IN SLICK.JS FOR THE CHILDREN
+-->
+<div class="facData">
+    @foreach (var fac in Model.Faculty)
+    {
+
+<div class='flex-container facImageContent'>
+    <img class=" facImage" src="@fac.imagePath " />
+    <div class='facInfo'>
+        <p>
+            Name: @fac.name <br />
+            Title: @fac.title <br />
+            Office: @fac.office <br />
+            Phone: @fac.phone <br />
+            Email: @fac.email <br />
+
+        </p>
+    </div>
+</div>
+    }
+    @foreach (var staff in Model.Staff)
+    {
+        <div class='flex-container staffImageContent'>
+            <img class=" staffImage" src="@staff.imagePath " />
+            <div class='staffInfo'>
+                <p>
+                    Name: @staff.name <br />
+                    Title: @staff.title <br />
+                    Office: @staff.office <br />
+                    Phone: @staff.phone <br />
+                    Email: @staff.email <br />
+
+                </p>
+            </div>
+        </div>
+    }
+</div>
+<script src="~/jquery/jquery.js"></script>
+
+
+

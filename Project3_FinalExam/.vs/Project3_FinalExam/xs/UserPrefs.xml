@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{EEEAA65C-4E89-4CCA-86CC-1627E6047CBA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project3__FinalExam PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/GetAbout.cs">
+    <Files>
+      <File FileName="Views/Home/Index.cshtml" Line="12" Column="18" IsPinned="True" />
+      <File FileName="wwwroot/css/site.css" IsPinned="True" />
+      <File FileName="Views/Home/GetFaculty.cshtml" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Views/Home/Privacy.cshtml" />
+      <File FileName="Services/GetAbout.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project3_FinalExam" expanded="True">
+            <Node name="Project3_FinalExam" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="GetAbout.cs" selected="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="assets" expanded="True" />
+                <Node name="css" expanded="True" />
+                <Node name="jquery-ui-1.12.1" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

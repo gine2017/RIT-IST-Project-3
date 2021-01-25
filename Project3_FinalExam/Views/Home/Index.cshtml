@@ -1,0 +1,155 @@
+﻿@{ ViewData["Title"] = "IST Page"; }
+@model Project3_FinalExam.ViewModels.EmployandAboutViewModel
+<!--
+
+FACT: images must be in wwwroot
+-->
+
+<div class="flex-container typing" style="width: 100vw; height: 80vh;"
+     data-vide-bg="../assets/video.mp4"
+     data-vide-options="loop: false, muted: false, position: 0% 0%">
+    <div id="collegeTtile">
+        <h1 id ="schoolInfoTitle" class="display-4">
+            School of Information
+        </h1>
+        <h2>
+            Golisano College of<br />
+            Computing and Information Sciences
+        </h2>
+    </div>
+</div>
+
+<div class="flex-container majorCards">
+    <div class="card wmcCard">
+        <div class="card-body">
+            Web and Mobile Computing
+        </div>
+    </div>
+
+    <div class="card hccCard">
+        <div class="card-body">
+            Human Centered Computing
+        </div>
+    </div>
+
+    <div class="card citCard">
+        <div class="card-body">
+            Computing and mInformation Technologies
+        </div>
+    </div>
+</div>
+
+<div class="flex-container aboutInfo">
+    <div class="leftTypingVid" style="
+       width: 180vw;
+        z-index: 99"
+         data-vide-bg="../assets/macOverhead.mp4"
+         data-vide-options="loop: false, muted: false, position: 0% 0%"></div>
+    <div id="aboutDescTitle">
+        <p id="aboutTitle">@Model.About.Title</p><br />
+        <p id="aboutDesc">@Model.About.Description</p><br />
+    </div>
+</div>
+
+<h1 id="quoteTitle">What Employers say About us </h1>
+<div class="flex-container aboutInfoTwo">
+    <div id="aboutQuoteInfo">
+        " @Model.About.Quote "<br />
+        <p style="font-weight:100;">@Model.About.QuoteAuthor</p>
+    </div>
+    <div class="flex-container rightTypingVid" style="width: 200vw; height:75vh;"
+         data-vide-bg="../assets/videoAgree.mp4"
+         data-vide-options="loop: false, muted: false, position: 0% 0%"></div>
+</div>
+<div class="flex-container employInfo">
+    <h1 id="employTitle">@Model.EmployIntro.title </h1>
+    <div class="flex-container employStatInfo">
+        <div class ="statOne">
+            <p id="statTitleOne">@Model.DegreeStats.statistics[0].value</p>
+            <p id="statNumOneDesc">@Model.DegreeStats.statistics[0].description</pid="statTitleOne">
+        </div>
+        <div id="statTwo">
+            <p id="statTitleTwo">@Model.DegreeStats.statistics[1].value</p>
+            <p id="statNumTwoDesc">@Model.DegreeStats.statistics[1].description</p>
+        </div>
+        <div id="statThree">
+            <p id="statTitleThree">@Model.DegreeStats.statistics[2].value</p>
+            <p id="statNumThreeDesc">@Model.DegreeStats.statistics[2].description</p>
+        </div>
+        <div id="statFour">
+            <p id="statTitleFour">@Model.DegreeStats.statistics[3].value</p>
+            <p id="statNumFourDesc">@Model.DegreeStats.statistics[3].description</p>
+        </div>
+    </div>
+    <div>
+        <h1 id="careerTitle"> Our Careers</h1>
+        <div class="flex-container careerDiv">
+            <p>@Model.Careers.careerNames[0]</p>
+            <p>@Model.Careers.careerNames[2]</p>
+            <p>@Model.Careers.careerNames[3]</p>
+            <p>@Model.Careers.careerNames[4]</p>
+        </div>
+
+        <h1 id="employerTitle"> Where we have been Hired</h1>
+        <div class="flex-container employerDiv">
+            <p id="employerDesc">@Model.EmployIntro.content[0].description</p>
+            <p>@Model.Employers.employerNames[0]</p>
+            <p>@Model.Employers.employerNames[1]</p>
+            <p>@Model.Employers.employerNames[2]</p>
+            <p>@Model.Employers.employerNames[3]</p>
+        </div>
+
+
+    </div>
+    <div class="employmentTable">
+        <h1>Employer Table</h1>
+        <table data-toggle="table" id="employTable">
+            <thead>
+                <tr>
+                    <th>Employer</th>
+                    <th>Degree</th>
+                    <th>City</th>
+                    <th>Title</th>
+                    <th>Start Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var tableEntry in Model.EmploymentTable.professionalEmploymentInformation)
+                {
+    <tr>
+        <td>@tableEntry.employer</td>
+        <td>@tableEntry.degree</td>
+        <td>@tableEntry.city</td>
+        <td>@tableEntry.title</td>
+        <td>@tableEntry.startDate</td>
+    </tr>}
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="flex-container careerTableDiv">
+    <h1>Careers</h1>
+    <p id="careerTableDesc">@Model.EmployIntro.content[1].description</p>
+    <table data-toggle="table" id="coopTable">
+        <thead>
+            <tr>
+                <th>Employer</th>
+                <th>Degree</th>
+                <th>City</th>
+                <th>Term</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var coopEntry in Model.CoopTable.coopInformation)
+            {
+                <tr>
+                    <td>@coopEntry.employer</td>
+                    <td>@coopEntry.degree</td>
+                    <td>@coopEntry.city</td>
+                    <td>@coopEntry.term</td>
+                </tr>
+             }
+        </tbody>
+    </table>
+</div>
+<script src="~/jquery/jquery.js"></script>
